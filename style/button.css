@@ -1,0 +1,25 @@
+/* CSS Document */
+
+.addicon-24{ background:transparent url('../images/add_24x24.png') center 0 no-repeat !important; }
+.addicon-32{ background:transparent url('../images/add_32x32.png') center 0 no-repeat !important; }
+.addicon-16{ background:transparent url('../images/add_16x16.png') center 0 no-repeat !important; }
+
+.deleteicon-16{ background:transparent url('../images/delete.png') center 0 no-repeat !important; }
+.editicon-16{ background:transparent url('../images/pencil.png') center 0 no-repeat !important; }
+
+.help-16{ background:transparent url('../images/help.png') center 0 no-repeat !important; }
+.help-32{ background:transparent url('../images/help_32x32.png') center 0 no-repeat !important; }
+
+.print-16{ background:transparent url('../images/printer.png') center 0 no-repeat !important; }
+.print-32{ background:transparent url('../images/printer_32x32.png') center 0 no-repeat !important; }
+
+.export-16{ background:transparent url('../images/table_export.png') center 0 no-repeat !important; }
+.export-32{ background:transparent url('../images/table_export_32x32.png') center 0 no-repeat !important; }
+
+.home-16{ background:transparent url('../images/home_page.png') center 0 no-repeat !important; } 
+.home-32{ background:transparent url('../images/home_page_32x32.png') center 0 no-repeat !important; } 
+
+.categories-16{ background:transparent url('../images/three_tags.png') center 0 no-repeat !important; } 
+.products-16{ background:transparent url('../images/package.png') center 0 no-repeat !important; } 
+.clients-16{ background:transparent url('../images/group.png') center 0 no-repeat !important; } 
+.invoices-16{ background:transparent url('../images/receipt_invoice.png') center 0 no-repeat !important; } 
